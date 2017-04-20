@@ -1,0 +1,1 @@
+# vRA-7-and-above-prepare_vra_template.ps1
